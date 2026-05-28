@@ -1,0 +1,6 @@
+Demo file for repository.
+
+This is a simple demonstration file added by the AEKRA Code Agent.
+
+- Purpose: show a sample file and create a pull request.
+- Created by: aekra-code-agent
